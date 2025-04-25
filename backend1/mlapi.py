@@ -213,7 +213,7 @@ Please do not hesitate to reach out if you require any assistance or guidance du
 
 Stay vigilant,
 
-Team G70,
+Team 41,
 Detective Zero-day.
 """
     msg.attach(MIMEText(body, 'plain'))

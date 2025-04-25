@@ -36,7 +36,7 @@ const homepage = () => {
           </div>
           <div>
             <p className="biggertext">ML</p>
-            <p className="smallertext">Random forest as the core model</p>
+            <p className="smallertext">LSTM and ISOLATION FOREST as the core model</p>
           </div>
           <div className="xyz">
             <img alt='' src="https://www.seekpng.com/png/full/10-104124_line-transparent-shadow-white-vertical-line-transparent.png" style={styles.xyz} />
